@@ -285,19 +285,28 @@ h1, h2, h3, h4, h5, h6, p {
   font-weight: bold;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info p .html {
-  color: #854723;
+  color: #0a16c5;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info p .css {
-  color: #0571BA;
+  color: #b9218c;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info p .javascript {
-  color: #958120;
+  color: #37f309;
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .android {
+  color: #ffd500;
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .python {
+  color: #005807;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info p .bootstrap {
   color: #623F91;
 }
-.main .proyectos .contenedor-proyectos .proyecto .info p .sass {
-  color: #CC6699;
+.main .proyectos .contenedor-proyectos .proyecto .info p .java {
+  color: #dda304;
+}
+.main .proyectos .contenedor-proyectos .proyecto .info p .angular {
+  color: #00acee;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info .foto img {
   width: 100%;
